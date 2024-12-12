@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily missed, typographical error in JavaScript when interacting with the DOM.  The incorrect use of `getElementByld` instead of `getElementById` prevents the code from functioning as intended. The solution provides the correct implementation.
